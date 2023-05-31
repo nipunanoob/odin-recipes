@@ -1,0 +1,21 @@
+* {
+  background-color: green;
+  font-family: Helvetica, sans-serif;
+}
+
+.title {
+  text-align: center; 
+  font-weight: bolder;
+  font-size: 40px;
+  font-style: italic;
+}
+
+.container {
+  text-align: center;
+}
+
+.container a:link, .container a:visited {
+  color: red;
+}
+
+
